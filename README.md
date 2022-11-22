@@ -5,6 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Deploy /build/web to your webserver.
+Ensure that href has the correct path set.
 
 A few resources to get you started if this is your first Flutter project:
 
